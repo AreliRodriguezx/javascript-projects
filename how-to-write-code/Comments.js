@@ -1,8 +1,8 @@
-   // This demo shows off comments!
+   /*This demo shows off comments!*/
 
-   // console.log("This does not print.");
+   /*comment 2*/ console.log("This does not print.");
 
-   console.log("Hello, World!"); // Comments do not have to start at the beginning of a line.
+   console.log("Hello, World!"); 
 
    /* Here is how
    to have
