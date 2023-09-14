@@ -3,11 +3,14 @@
 // Add console.log(launchReady) after this block, then run the program.
 
 //Given the fuelLevel value, should launchReady be true or false after the check?  Is the program behaving as expected?
+// should be false so it is working
 
 let launchReady = false;
 let fuelLevel = 17000;
 // let crewStatus = true;
 // let computerStatus = 'green';
+
+console.log(launchReady);
 
 if (fuelLevel >= 20000) {
    console.log('Fuel level cleared.');
